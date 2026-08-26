@@ -4,4 +4,6 @@ It compares the energy of non-damped harmonic oscillator and damped harmonic osc
 
 This project uses NumPy for the computation and Matplotlib for the visulation of the graph.
 
+Was created in Google CoLab
+
 Created in my learning of computational physics. 
