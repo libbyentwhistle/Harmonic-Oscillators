@@ -1,4 +1,4 @@
-#Harmonic Oscillator
+# Harmonic Oscillator
 
 It compares the energy of non-damped harmonic oscillator and damped harmonic oscillator, as well as comparing the theoretical energy decay of a damped harmonic oscillator. 
 
